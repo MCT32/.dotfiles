@@ -1,0 +1,15 @@
+:root {
+    --nord0: #242933;
+    --nord1: #2e3440;
+    --nord2: #434c5e;
+    --nord3: #4c566a;
+}
+
+.theme-dark {
+    --background-tertiary: var(--nord0);
+    --background-secondary: var(--nord2);
+    --background-secondary-alt: var(--nord3);
+    --background-primary: var(--nord1);
+
+    --channeltextarea-background: var(--nord0);
+}

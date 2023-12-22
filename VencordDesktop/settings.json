@@ -1,0 +1,15 @@
+{
+    "discordBranch": "canary",
+    "firstLaunch": false,
+    "arRPC": "on",
+    "splashColor": "rgb(219, 222, 225)",
+    "splashBackground": "rgb(46, 52, 64)",
+    "windowBounds": {
+        "x": -3800,
+        "y": 30,
+        "width": 1900,
+        "height": 1040
+    },
+    "maximized": true,
+    "minimized": false
+}
