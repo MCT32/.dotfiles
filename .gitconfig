@@ -1,3 +1,5 @@
 [user]
 	email = 32090502+MCT32@users.noreply.github.com
 	name = MCT32
+[credential]
+	helper = store
