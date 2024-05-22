@@ -3,3 +3,5 @@
 	name = MCT32
 [credential]
 	helper = store
+[pull]
+	rebase = true
