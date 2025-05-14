@@ -1,3 +1,5 @@
+ilo-sitelen-git
+otf-nasin-nanpa
 vesktop
 xwaylandvideobridge-git
 yay
