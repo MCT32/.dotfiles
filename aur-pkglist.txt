@@ -1,0 +1,3 @@
+vesktop
+xwaylandvideobridge-git
+yay

@@ -11,6 +11,8 @@ garcon
 git
 grub
 hyprland
+iw
+iwd
 jack-example-tools
 jack2
 jack2-dbus
@@ -34,11 +36,11 @@ thunar-volman
 tree
 ttf-font-awesome
 tumbler
-vesktop
 vim
 waybar
 wireplumber
 wofi
+wpa_supplicant
 xdg-desktop-portal-hyprland
 xfce4-appfinder
 xfce4-panel
@@ -50,6 +52,3 @@ xfconf
 xfdesktop
 xfwm4
 xfwm4-themes
-xwaylandvideobridge-git
-yay
-yay-debug
