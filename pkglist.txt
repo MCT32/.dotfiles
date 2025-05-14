@@ -3,10 +3,12 @@ arch-install-scripts
 base
 base-devel
 bpytop
+bustle
 cmus
 dhcpcd
 efibootmgr
 exo
+fcitx5-configtool
 firefox
 garcon
 git
@@ -55,4 +57,5 @@ xfconf
 xfdesktop
 xfwm4
 xfwm4-themes
+zed
 zip
