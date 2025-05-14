@@ -1,5 +1,6 @@
 ilo-sitelen-git
-otf-nasin-nanpa
+ttf-sitelen-seli-kiwen-juniko
 vesktop
 xwaylandvideobridge-git
 yay
+yay-debug
