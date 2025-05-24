@@ -1,3 +1,4 @@
+cmatrix-git
 fselect
 ilo-sitelen-git
 neofetch
