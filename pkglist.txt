@@ -18,6 +18,7 @@ fish
 garcon
 git
 gitui
+glyr
 grub
 hyperfine
 hyprland
@@ -29,6 +30,7 @@ kitty
 linux
 linux-firmware
 man-db
+mpd
 nushell
 nvidia-open
 obs-studio
@@ -42,6 +44,7 @@ qjackctl
 qutebrowser
 ripgrep
 ripgrep-all
+rmpc
 rsync
 rust
 sddm
