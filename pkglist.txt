@@ -36,6 +36,7 @@ nushell
 nvidia-open
 obs-studio
 openssh
+openxr
 os-prober
 pavucontrol
 pdfjs
