@@ -1,4 +1,6 @@
+archlinux-artwork
 cmatrix-git
+dracula-icons-git
 fselect
 ilo-sitelen-git
 neofetch

@@ -24,6 +24,7 @@ glyr
 grub
 hyperfine
 hyprland
+hyprpaper
 iw
 iwd
 jack-example-tools
