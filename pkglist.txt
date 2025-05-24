@@ -16,8 +16,6 @@ hyprland
 iw
 iwd
 jack-example-tools
-jack2
-jack2-dbus
 kitty
 linux
 linux-firmware
@@ -26,7 +24,10 @@ nvidia-open
 obs-studio
 openssh
 os-prober
+pavucontrol
 pdfjs
+pipewire-jack
+pipewire-pulse
 qjackctl
 qutebrowser
 rsync
