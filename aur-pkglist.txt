@@ -1,4 +1,5 @@
 ilo-sitelen-git
+neofetch
 ttf-sitelen-seli-kiwen-juniko
 vesktop
 xwaylandvideobridge-git

@@ -22,7 +22,6 @@ jack2-dbus
 linux
 linux-firmware
 man-db
-neofetch
 nvidia-open
 obs-studio
 openssh
