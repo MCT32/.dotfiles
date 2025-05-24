@@ -15,6 +15,7 @@ fcitx5-configtool
 fd
 firefox
 fish
+fisher
 flameshot
 garcon
 git
