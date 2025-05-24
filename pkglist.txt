@@ -37,6 +37,7 @@ mpd
 nushell
 nvidia-open
 obs-studio
+openrgb
 openssh
 openxr
 os-prober
